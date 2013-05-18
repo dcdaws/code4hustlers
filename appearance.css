@@ -6,3 +6,4 @@
 .redtext {
 	color: red
 }
+.redtext:hover{ color: yellow}
